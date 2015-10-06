@@ -1,0 +1,9 @@
+awdr:
+  id: 1
+  name: "Agile Web Development with Rails"
+  format: "paperback"
+
+rfr:
+  id: 2
+  name: "Ruby for Rails"
+  format: "ebook"

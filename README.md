@@ -65,7 +65,7 @@ simple_enum_s status: [ :active, :archived ]
 
 ## Compatibility/Requirements
 
-This gem has been tested and is known to work with ActiveRecord 4, using Ruby 2.0.
+This gem has been tested and is known to work with ActiveRecord 5, using Ruby 2.3.
 
 ## Credits
 

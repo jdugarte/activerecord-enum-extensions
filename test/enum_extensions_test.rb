@@ -45,6 +45,7 @@ class EnumExtensionsTest < ActiveSupport::TestCase
   test "enum attribute was" do
     old_status = @book.status
     @book.status = :published
+    byebug
     assert_equal old_status, @book.attribute_was(:status)
   end
 
